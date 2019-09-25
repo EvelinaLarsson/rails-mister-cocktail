@@ -66,6 +66,12 @@ li i {
 a.btn.btn-warning {
   margin-bottom: 1em;
 }
+
+.ingredients h3 {
+  padding-top: 20px;
+}
+
+
 // Smallest device
 @media (min-width: 100px) and (max-width: 575px) {
   .cards {
